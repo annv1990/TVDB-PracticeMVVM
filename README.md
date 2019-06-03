@@ -1,4 +1,5 @@
 Reference 
+https://github.com/BrianSpace/Android-App-Architecture-MVVM-Databinding
 https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
 
 # Android App Architecture Demo - MVVM with databinding (Java version) [[Kotlin version](https://github.com/BrianSpace/Android-App-Architecture-MVVM-Databinding/tree/kotlin)] [[中文版](README_zh.md)]
